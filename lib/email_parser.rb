@@ -13,11 +13,6 @@ class EmailAddressParser
     @csv_emails = csv_emails
     
   end
-  
-  def parse
-    @parse = parse
-  end
-    
     
     
     
